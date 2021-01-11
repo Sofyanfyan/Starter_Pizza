@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{7B966BEF-2886-F5A1-C7F1-B5875A5BA1DC}</ProjectGuid>
+    <ProjectGuid>{EF20DFD9-5672-6001-9CE5-059AF6048530}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -68,16 +68,16 @@
     <Compile Include="Assets\Scripts\PizzaTrackableEventHandler.cs" />
     <None Include="Assets\StreamingAssets\Vuforia\RW_ItsaPizza.xml" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Starter_Pizza/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Starter_Pizza/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Starter_Pizza/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/fyan/Downloads/How-to-Make-an-AR-Game-Using-Vuforia/How to Make an AR Game Using Vuforia Starter/Starter_Pizza/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/app/unity/Editor/2018.2.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

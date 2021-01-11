@@ -76,6 +76,6 @@ public class ScorePanel : MonoBehaviour
             star.SetActive(false);
         }
         finalScorePanel.SetActive(true);
-        finalScoreText.text = "You scored " + score + " points!";
+        finalScoreText.text = "SCORE KAMU " + score + " POINTS!";
     }
 }

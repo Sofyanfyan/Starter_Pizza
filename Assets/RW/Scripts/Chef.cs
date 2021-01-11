@@ -48,7 +48,7 @@ public class Chef : MonoBehaviour
         }
         else if (IsCapricciosa(order))
         {
-            speechBubble.text = "Pesanan Datang! \nCapricciosa! Sbrigati!";
+            speechBubble.text = "Pesanan Datang! \nCapricciosa! Cepat!";
         }
         else if (IsVegetarian(order))
         {
